@@ -1,0 +1,41 @@
+.header{
+    background-color: rgb(80, 8, 8);
+    display: flex;
+}
+.nav li{
+   display: inline; 
+   font-size: 25px;
+   
+   
+}
+a li button{
+    border-radius: 50px;
+    color: rgb(182, 168, 168);
+}
+.nav{
+    padding-left: 20%;
+    
+}
+.nav a{
+    text-decoration: none;
+    padding: 10px 10px;
+    color: rgb(175, 163, 163);
+    text-align: center;
+
+}
+.nav a:hover{
+    color: rgb(160, 7, 7);
+    
+    
+}
+
+.join {
+    background-color:rgb(255, 0, 0);
+    border-radius: 15px;
+    color:rgb(236, 5, 5);
+    padding:32px 32px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 16px;
+}

@@ -1,0 +1,44 @@
+
+.form{
+    
+    padding-left: 40%;
+    color:rgb(73, 65, 65)
+    padding-top: 2px;
+    padding-bottom:2px;
+    font-size: 20px;
+
+    
+    
+}
+form input{
+    width: 70%;
+
+}
+.content{
+    background-color: rgb(59, 52, 52);
+}
+form input[type="checkbox"]{
+    width: auto;
+}
+
+
+input[type="submit"]{
+    width:auto;
+    background-color: rgb(255, 0, 0);
+    border:none;
+    color:white;
+    padding:15px 30px;
+    text-align: center;
+    text-decoration:none;
+    display:inline-block;
+    font-size :16px;
+}
+
+form input[type="submit"]{
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+    
+}
+border-radius:50% ;

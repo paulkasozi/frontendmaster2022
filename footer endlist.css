@@ -1,0 +1,37 @@
+.endlist li{
+    display: inline;
+    font-size: 25px;
+}
+.endlist{
+    padding-left: 15px;
+}
+.firstdiv {
+    display: flex;
+}
+
+.iconsparent {
+    display: flex;
+    }
+.icon1 {
+    width: 5px;height: 1px;
+padding: 50%;
+}
+.footer {
+    background-color: rgba(12, 9, 9, 0.986);
+}
+.bottom {
+    color: white;
+    display: flex;
+}
+.email {
+    line-height: 60px;
+    padding-left: 230px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.frontstatement {
+    padding-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.firstdiv {
+    padding-top: 80px;
+}
